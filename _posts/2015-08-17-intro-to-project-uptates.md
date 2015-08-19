@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Intro to Project Updates
+author: Benjamin Lannon
 ---
 
 Welcome to Project updates, a site for hosting updates on work being done inside
