@@ -1,0 +1,53 @@
+# SITE CONFIGURATION
+baseurl: "/project-updates" # the subpath of your site, e.g. /blog/
+url: "http://cosi-lab.github.io" # the base hostname & protocol for your site
+
+# THEME-SPECIFIC CONFIGURATION
+theme:
+  # Meta
+  title: Project Updates
+  avatar: cosi.png
+  description: "Project Updates for the Clarkson Open Source Institute" # used by search engines
+
+  # Header and footer text
+  header_text: >
+      This is a site for project updates for COSI. Please
+      feel free to post about your work in the labs here.
+      If you want to suggest a new project, come to a meeting
+      every Wednesday night at 7:30pm
+  header_text_feature_image:
+  footer_text: >
+   Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
+
+  # Icons
+  rss: false
+  github: "cosi-lab/project-updates"
+
+  # Scripts
+  katex: true # Enable if using math markup
+
+  # Localization strings
+  str_follow_on: "Follow on"
+  str_rss_follow: "Follow RSS feed"
+  str_email: "Email"
+  str_next: "Next"
+  str_prev: "Prev"
+  str_continue_reading: "Continue reading"
+
+  # Colours, typography and padding
+  # Open the "_sass > base" folder, and open "_variables.scss"
+  google_fonts: "Source+Sans+Pro:400,700,700italic,400italic"
+  
+  # Post navigation
+  post_navigation: false
+
+# PAGINATION
+paginate: 5
+paginate_path: "page:num"
+
+# BUILD SETTINGS
+markdown: kramdown
+highlighter: pygments
+sass:
+  sass_dir: _sass
+  style: :compressed
