@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Type Theory Study Group: First Meeting
+title: Type Theory Study Group, First Meeting
 author: Corey Richardson
 ---
 
