@@ -3,22 +3,23 @@
 	position: absolute;
 	font-size: 12px;
 	top: 0px;
-	height: 40px;
-	border-bottom: 2px solid white;
-	background-color: rgba(255,255,255,0.2);
-}
+	height: 50px;
+	border-bottom: 2px solid grey;
+	background-color: #60646D;
 
-#nav ul {
-	list-style-type: none;
-}
+	ul {
+		list-style-type: none;
+	}
 
-#nav ul li {
-	display: inline;
-	margin-right: 15px;
-}
+	ul li {
+		display: inline;
+		margin: 15px;
+	}
 
-#nav ul li a {
-	color: white;
-	font-weight: bold;
-	text-decoration: none;
+	ul li a {
+		color: white;
+		font-weight: bold;
+		text-decoration: none;
+	}
+
 }
