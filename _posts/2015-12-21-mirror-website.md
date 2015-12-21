@@ -4,7 +4,7 @@ title: Mirror Website Redesign Update
 author: Benjamin Lannon
 ---
 
-Since Mirror will be rebuilt in 2015, I have decided to start working on a new
+Since Mirror will be rebuilt in 2016, I have decided to start working on a new
 website to go alongside it. Two things I wanted to do was make a clean design
 and have the website be responsive. Many Open Source project websites aren't known
 for having a 2010s website design, so I wanted to change this with the new site
