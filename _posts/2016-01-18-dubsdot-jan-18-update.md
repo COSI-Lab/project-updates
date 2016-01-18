@@ -14,9 +14,10 @@ go through many iterations of this site, but an initial version is complete for 
 Up next, I went through the VMs we want to transfer onto DubsDot. We are planning
 on using Apache VirtualHosts to have them all be on the same VM with their usual
 domains, and these services include:
-* Print
-* Fsuvius
-* Talks
+
+- Print
+- Fsuvius
+- Talks
 
 This week, we should can transfer at least one of these services and then get to
 the rest next week if they aren't done this week.
