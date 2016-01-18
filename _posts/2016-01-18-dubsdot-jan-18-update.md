@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dubsdot: Week of Jan 18 Update
+title: Dubsdot Jan 18 Update
 author: Benjamin Lannon
 ---
 
