@@ -47,7 +47,7 @@ paginate_path: "page:num"
 
 # BUILD SETTINGS
 markdown: kramdown
-highlighter: pygments
+highlighter: rogue
 sass:
   sass_dir: _sass
   style: :compressed
