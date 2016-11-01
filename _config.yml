@@ -3,7 +3,7 @@ baseurl: "/project-updates" # the subpath of your site, e.g. /blog/
 url: "http://cosi-lab.github.io" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
-theme:
+theme_settings:
   # Meta
   title: Project Updates
   avatar: cosi.png
